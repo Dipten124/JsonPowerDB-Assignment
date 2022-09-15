@@ -3,7 +3,7 @@ Tools Used : HTML,JsonPowerDB
 # assignment
 ---------------------
 
-"It's a validation form based on JsonPowerDB in which you can add some employee details to keep record of them"
+"It's a validation form based on JsonPowerDB in which you can add some employee details to keep records of them"
   ### A simple **HTML Web Application** made with **JavaScipt** and **JsonPowerDB** for **Employee Management System**.
 
 ----
